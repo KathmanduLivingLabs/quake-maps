@@ -5,7 +5,7 @@ layout: default
 # QuakeRelief.info
 *Maps and information to asisst in Earthquake relief, from Kathmandu Living Labs.*
 
-The object of this site is to provide maps that are relevant to the relief and recovery operations after Nepal's Earthquake. Offline maps available on this site are extracted from OpenStreetMap data. The data has been developed by thousands of crowd-sourced volunteers, and in our estimations provides the most up to date maps of Nepal.
+The objective of this site is to provide maps that are relevant to the relief and recovery operations after Nepal's Earthquake. Offline maps available on this site are extracted from OpenStreetMap data. The data has been developed by thousands of crowd-sourced volunteers, and in our estimations provides the most up to date maps of Nepal.
 
 What you will find on this site:
 
