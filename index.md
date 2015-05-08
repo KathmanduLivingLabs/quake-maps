@@ -70,39 +70,40 @@ Dolakha| | |
 Gorkha| | |
 ---|---|---|---:
 [Gorkha District -A2<br/>![District A2](http://45.55.246.231/quake-maps/img/thumbs/Gorkha.png)](http://45.55.246.231/quake-maps/img/Gorkha.png)|[Arupokhari](http://www.maposmatic.org/results//164512_2015-05-02_10-02_ArupokhariGorkha.png)|[Laprak](https://cloud.githubusercontent.com/assets/371666/7369104/779291a0-edcc-11e4-9f18-8331f8d68594.png)
-[Baprak](https://cloud.githubusercontent.com/assets/371666/7369111/8e87067a-edcc-11e4-97ec-61b0d5313867.png)
+[Baprak](https://cloud.githubusercontent.com/assets/371666/7369111/8e87067a-edcc-11e4-97ec-61b0d5313867.png)| 
 
-Rasuwa| | |
----|---|---|---:
- [Rasuwa District - A2<br/>![District A2](http://45.55.246.231/quake-maps/img/thumbs/Rasuwa.png)](http://45.55.246.231/quake-maps/img/Rasuwa.png) 
+Rasuwa|  
+---|---:
+[Rasuwa District - A2<br/>![District A2](http://45.55.246.231/quake-maps/img/thumbs/Rasuwa.png)](http://45.55.246.231/quake-maps/img/Rasuwa.png)|
  
-Ramechhap| |
----|---|---:
-[Ramechhap District - A2<br/>![District A2](http://45.55.246.231/quake-maps/img/thumbs/Ramechhap.png)](http://45.55.246.231/quake-maps/img/Ramecchap.png) 
+Ramechhap| 
+---|---:
+[Ramechhap District - A2<br/>![District A2](http://45.55.246.231/quake-maps/img/thumbs/Ramechhap.png)](http://45.55.246.231/quake-maps/img/Ramecchap.png)| 
  
-Nuwakot| |
----|---|---:
-[Nuwakot District - A2<br/>![District A2](http://45.55.246.231/quake-maps/img/thumbs/Nuwakot.png)](http://45.55.246.231/quake-maps/img/Nuwakot.png) 
+Nuwakot| 
+---|---:
+[Nuwakot District - A2<br/>![District A2](http://45.55.246.231/quake-maps/img/thumbs/Nuwakot.png)](http://45.55.246.231/quake-maps/img/Nuwakot.png)| 
 
-Kavre| |
----|---|---:
-[Kavrepalanchok District - A2<br/>![District A2](http://45.55.246.231/quake-maps/img/thumbs/Kabhrepalanchok.png)](http://45.55.246.231/quake-maps/img/Kabhrepalanchok.png) 
+Kavre| 
+---|---:
+[Kavrepalanchok District - A2<br/>![District A2](http://45.55.246.231/quake-maps/img/thumbs/Kabhrepalanchok.png)](http://45.55.246.231/quake-maps/img/Kabhrepalanchok.png)| 
  
-Dhading| |
----|---|---:
+Dhading| 
+---|---:
 [Dhading District - A2<br/>![District A2](http://45.55.246.231/quake-maps/img/thumbs/Dhading.png)](http://45.55.246.231/quake-maps/img/Dhading.png)|[Phulkharka VDC - Dhading<br/>![VDC](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Dhading_Phulkharka.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Dhading_Phulkharka.png)
 
-Makwanpur| | 
----|---|---:
-[Makwanpur District - A2<br/>![District A2](http://45.55.246.231/quake-maps/img/thumbs/Makwanpur.png)](http://45.55.246.231/quake-maps/img/Makwanpur.png) 
+Makwanpur| 
+---|---:
+[Makwanpur District - A2<br/>![District A2](http://45.55.246.231/quake-maps/img/thumbs/Makwanpur.png)](http://45.55.246.231/quake-maps/img/Makwanpur.png)|
+ 
 
-Okhaldhunga| | 
----|---|---:
-[Okhaldhunga District - A2<br/>![District A2](http://45.55.246.231/quake-maps/img/thumbs/Okhaldhunga.png)](http://45.55.246.231/quake-maps/img/Okhaldhunga.png) 
+Okhaldhunga| 
+---|---:
+[Okhaldhunga District - A2<br/>![District A2](http://45.55.246.231/quake-maps/img/thumbs/Okhaldhunga.png)](http://45.55.246.231/quake-maps/img/Okhaldhunga.png)| 
 
-Sindhuli| |
----|---|---:
-[Sindhuli District - A2<br/>![District A2](http://45.55.246.231/quake-maps/img/thumbs/Sindhuli.png)](http://45.55.246.231/quake-maps/img/Sindhuli.png) 
+Sindhuli| 
+---|---:
+[Sindhuli District - A2<br/>![District A2](http://45.55.246.231/quake-maps/img/thumbs/Sindhuli.png)](http://45.55.246.231/quake-maps/img/Sindhuli.png)| 
 
 Topo Maps are also available at [Pahar.in](http://pahar.in/nepal-topo-maps/)
 District-level overview maps are also available [here](https://drive.google.com/file/d/0BxrnzVKy1m8GNDY5Rk1oSDVpbVk/view)
