@@ -43,7 +43,7 @@ Zoom in to identify VDC Names.
 
 
 ## <a id="printed-maps">Printable Maps of Affected Areas(PDF)</a>
- Kathmandu| | |
+ | | |
  ---|---|---|---:
 [Kathmandu District - A2<br/>![District A2](http://45.55.246.231/quake-maps/img/thumbs/Kathmandu.png)](http://45.55.246.231/quake-maps/img/Kathmandu.png)|[32-page A4 PDF](http://www.maposmatic.org/results//163494_2015-04-26_13-58_KathmanduBagmatiCentralDevelopmentRegionNepal.pdf), *15mb* | [Large Single-page PDF](http://www.maposmatic.org/results//163571_2015-04-26_22-22_KathmanduBagmatiCentralDevelopmentRegionNepal.pdf), *13mb* and more  formats available [here](http://www.maposmatic.org/maps/163571)
  
