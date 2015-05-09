@@ -42,7 +42,7 @@ Hover on a district to find out more information.
 Zoom in to identify VDC Names.
 
 ## <a id="remote-damage-assessment-map" href="http://kathmandulivinglabs.github.io/satellite-visible-damage-assesment" target="_blank">Satellite-Visible Damage Assessment Map</d>
-<iframe frameborder="0" width: "670" height: "670" scrolling="no" src="http://kathmandulivinglabs.github.io/satellite-visible-damage-assesment"></iframe>
+<iframe frameborder="0" width= "670" height= "670" scrolling="no" src="http://kathmandulivinglabs.github.io/satellite-visible-damage-assesment"></iframe>
 
 
 ## <a id="printed-maps">Printable Maps of Affected Areas(PDF)</a>
