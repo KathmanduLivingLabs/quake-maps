@@ -81,11 +81,11 @@ Zoom in to identify VDC Names.
    * [Laprak](https://cloud.githubusercontent.com/assets/371666/7369104/779291a0-edcc-11e4-9f18-8331f8d68594.png)
    * [Baprak](https://cloud.githubusercontent.com/assets/371666/7369111/8e87067a-edcc-11e4-97ec-61b0d5313867.png)
    * [Muchhok - Gorkha<br/>![Muchhok](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Gorkha_Mucchok_thumb.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Gorkha_Mucchok.png)
-   * [Gumba VDC - Sindhupalchok<br/>![VDC](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Aarupokhari.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Aarupokhari.png)
-   * [Gumba VDC - Sindhupalchok<br/>![VDC](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Ghyachwok.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Ghyachwok.png)
-   * [Gumba VDC - Sindhupalchok<br/>![VDC](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Gumba.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Gumba.png)
-   * [Gumba VDC - Sindhupalchok<br/>![VDC](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Lapu.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Lapu.png)
-   * [Gumba VDC - Sindhupalchok<br/>![VDC](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Uiya.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Uiya.png)
+   * [Aarupokhari VDC - Gorkha<br/>![VDC](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Aarupokhari.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Aarupokhari.png)
+   * [Ghyachwok VDC - Gorkha<br/>![VDC](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Ghyachwok.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Ghyachwok.png)
+   * [Gumda VDC - Gorkha<br/>![VDC](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Gumda.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Gumda.png)
+   * [Lapu VDC - Gorkha<br/>![VDC](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Lapu.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Lapu.png)
+   * [Uiya VDC - Gorkha<br/>![VDC](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Uiya.png)](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Uiya.png)
  * Rasuwa
    * [Rasuwa District - A2<br/>![District A2](http://45.55.246.231/quake-maps/img/thumbs/Rasuwa.png)](http://45.55.246.231/quake-maps/img/Rasuwa.png) 
  * Ramechhap
