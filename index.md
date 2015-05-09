@@ -41,7 +41,7 @@ Hover on a district to find out more information.
 <iframe frameborder="0" width="670" height="500" scrolling="no" src="http://meghastha.github.io/affected-districts/index.html"></iframe>
 Zoom in to identify VDC Names.
 
-## <a id="remote-damage-assessment-map" href="http://kathmandulivinglabs.github.io/satellite-visible-damage-assesment" target="_blank">Satellite-Visible Damage Assessment Map</d>
+## <a id="remote-damage-assessment-map" href="http://kathmandulivinglabs.github.io/satellite-visible-damage-assesment" target="_blank">Satellite-Visible Damage Assessment Map</a>
 <iframe frameborder="0" width= "670" height= "670" scrolling="no" src="http://kathmandulivinglabs.github.io/satellite-visible-damage-assesment"></iframe>
 
 
