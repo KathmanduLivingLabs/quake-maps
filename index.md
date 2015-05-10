@@ -50,7 +50,7 @@ Zoom in to identify VDC Names.
 <table>
 <tbody>
 <tr>
-<td>[Kathmandu District - A2<br/>![District A2](http://45.55.246.231/quake-maps/img/thumbs/Kathmandu.png)](http://45.55.246.231/quake-maps/img/Kathmandu.png)<td/>
+<td><a href="http://45.55.246.231/quake-maps/img/Kathmandu.png">Kathmandu District - A2District A2 <img src='http://45.55.246.231/quake-maps/img/thumbs/Kathmandu.png'/><td/>
 <td>[32-page A4 PDF, *15mb* ![32page](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/kathmandu_32pages.png)](http://www.maposmatic.org/results//163494_2015-04-26_13-58_KathmanduBagmatiCentralDevelopmentRegionNepal.pdf)<td/>
 <td>[Large Single-page PDF ,*13mb*<br/>![large](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Kathmandu_largesinglepagepdf.png)](http://www.maposmatic.org/results//163571_2015-04-26_22-22_KathmanduBagmatiCentralDevelopmentRegionNepal.pdf)<br/>and more formats available [here](http://www.maposmatic.org/maps/163571)
 [Bhaktapur District - A2<br/>![District A2](http://45.55.246.231/quake-maps/img/thumbs/Bhaktapur.png)](http://45.55.246.231/quake-maps/img/Bhaktapur.png)|[50-page A4 PDF, *7mb*![50page](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/bhaktapur32.png)](http://www.maposmatic.org/results//163497_2015-04-26_14-05_BhaktapurBagmatiCentralDevelopmentRegionNepal.pdf)|[Lalitpur District - A2<br/>![District A2](http://45.55.246.231/quake-maps/img/thumbs/Lalitpur.png)](http://45.55.246.231/quake-maps/img/Lalitpur.png)<td/>
