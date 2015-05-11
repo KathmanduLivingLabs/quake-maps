@@ -50,15 +50,15 @@ Zoom in to identify VDC Names.
 <table>
 <tbody>
 <tr>
-<td><a href="http://45.55.246.231/quake-maps/img/Kathmandu.png">Kathmandu District - A2District A2 <br/><img src='http://45.55.246.231/quake-maps/img/thumbs/Kathmandu.png'/></a></td>
+<td><a href="http://45.55.246.231/quake-maps/img/Kathmandu.png">Kathmandu District - A2<br/><img src='http://45.55.246.231/quake-maps/img/thumbs/Kathmandu.png'/></a></td>
 <td><a href="http://www.maposmatic.org/results//163494_2015-04-26_13-58_KathmanduBagmatiCentralDevelopmentRegionNepal.pdf">32-page A4 PDF, 15mb<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/kathmandu_32pages.png"/></a></td>
-<td><a href="http://www.maposmatic.org/results//163571_2015-04-26_22-22_KathmanduBagmatiCentralDevelopmentRegionNepal.pdf">Large Single-page PDF ,13mb</a> <br/>and more formats available <a href='http://www.maposmatic.org/maps/163571'>here</a><br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Kathmandu_largesinglepagepdf.png"/></a></td>
+<td><a href="http://www.maposmatic.org/results//163571_2015-04-26_22-22_KathmanduBagmatiCentralDevelopmentRegionNepal.pdf">Large Single-page PDF ,13mb</a> <br/>and more formats <br/>available <a href='http://www.maposmatic.org/maps/163571'>here</a><br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Kathmandu_largesinglepagepdf.png"/></a></td>
 <td><a href="http://45.55.246.231/quake-maps/img/Bhaktapur.png">Bhaktapur District - A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Bhaktapur.png"/></a></td>
 <td><a href="http://www.maposmatic.org/results//163497_2015-04-26_14-05_BhaktapurBagmatiCentralDevelopmentRegionNepal.pdf">50-page A4 PDF, 7mb <br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/bhaktapur32.png"/></a></td>
 </tr>
 <tr>
 <td><a href="http://45.55.246.231/quake-maps/img/Lalitpur.png">Lalitpur District - A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Lalitpur.png"/></a></td>
-<td><a href="http://www.maposmatic.org/results//163662_2015-04-27_10-25_Lalitpur.pdf">Patan Area Only,27-page A4 PDF,16mb<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/LalitpurPatanonly.png"/></a></td>
+<td><a href="http://www.maposmatic.org/results//163662_2015-04-27_10-25_Lalitpur.pdf">Patan Area Only,<br/>27-page A4 PDF,16mb<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/LalitpurPatanonly.png"/></a></td>
 <td><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Lalitpur_Nallu.png" download>Nallu VDC - Lalitpur<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Lalitpur_Nallu.png"/></a></td>
 <td><a href="https://cloud.githubusercontent.com/assets/371666/7369122/a2e6e3d8-edcc-11e4-8870-cb58302c0788.png">Kirtipur-Lalitpur<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Lalitpur_kritipur.png"/></a></td>
 <td><a href="https://cloud.githubusercontent.com/assets/4587826/7360010/d42f39f4-ed13-11e4-8ccf-06b6df824b6e.png">Chasukhel-Lalitpur <br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Lalitpur_Chausekhel.png"/></a></td>
@@ -67,7 +67,7 @@ Zoom in to identify VDC Names.
 <td><a href="http://45.55.246.231/quake-maps/img/Sindhupalchok.png">Sindhupalchok District - A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Sindhupalchok.png"/></a></td>
 <td><a href="https://cloud.githubusercontent.com/assets/371666/7369193/7200ad70-edcd-11e4-8d3d-c36bb86c8eb8.png">Bahrabise - Sindhupalchowk<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Sindhupalchowk_Barabishe.png"/></a></td>
 <td><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sinchupalchowk_Gumba.png">Gumba VDC - Sindhupalchok<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Sinchupalchowk_Gumba_thumb.png"/></a></td>
-<td><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchok_Fulpingkatti.png">Fulpingkatti VDC - Sindhupalchok<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Sindhupalchok_Fulpingkatti.png"/></a></td>
+<td><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchok_Fulpingkatti.png">Fulpingkatti VDC - <br/>Sindhupalchok<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Sindhupalchok_Fulpingkatti.png"/></a></td>
 <td><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-inframeo/VDC_Maps/Sindhupalchok_Tatopani.png">Tatopani VDC - Sindhupalchok<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Sindhupalchok_Tatopani.png"/></a></td>
 </tr>
 <tr>
@@ -88,7 +88,7 @@ Zoom in to identify VDC Names.
 <td><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Dolakha_Lamabagar.png">Lamabagar VDC - Dolakha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Dolakha_Lamabagar_thumb.png"/></a></td>
 <td><a href="http://45.55.246.231/quake-maps/img/Gorkha.png">Gorkha District -A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Gorkha.png"/></a></td>
 <td><a href="https://cloud.githubusercontent.com/assets/371666/7369104/779291a0-edcc-11e4-9f18-8331f8d68594.png">Laprak - Gorkha <br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Dhading_Larpak_thumb.png"/></a></td>
-<td><a href="http://www.maposmatic.org/results//164512_2015-05-02_10-02_ArupokhariGorkha.png">Arupokhari-Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Gorkha_Arupokhari_thumb.png"/></a></td>
+<td><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Aarupokhari.png">Arupokhari-Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Aarupokhari.png"/></a></td>
 <td><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Gorkha_Prok.png">Prok - Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Gorkha_Prok.png"/></a></td>
 </tr>
 <tr>
