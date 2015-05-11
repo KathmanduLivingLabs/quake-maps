@@ -47,7 +47,7 @@ Zoom in to identify VDC Names.
 
 
 ## <a id="printed-maps">Printable Maps of Affected Areas(PDF)</a>
-<table>
+<table cellspacing=="10">
 <tbody>
 <tr>
 <td><a href="http://45.55.246.231/quake-maps/img/Kathmandu.png">Kathmandu District - A2<br/><img src='http://45.55.246.231/quake-maps/img/thumbs/Kathmandu.png'/></a></td>
