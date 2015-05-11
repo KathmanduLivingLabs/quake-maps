@@ -127,7 +127,7 @@ Zoom in to identify VDC Names.
 <tr>
 <td><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Dhading_Jalbire.png">Jalbire - Dhading<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Dhading_Jalbire.png"/></a></td>
 <td><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Dhading_Marpak.png">Marpak - Dhading<img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Dhading_Marpak_thumb.png"/></a></td>
-<td><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Gorkha_bihi.png">Bihi - Gorkha <img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Gorkha_Bihi.png"/></a></td>
+<td><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Gorkha_bihi.png">Bihi - Gorkha <br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Gorkha_Bihi.png"/></a></td>
 </tr>
 </tbody>
 </table>
