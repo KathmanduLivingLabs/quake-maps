@@ -78,6 +78,7 @@ Zoom in to identify VDC Names.
 <td><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchok_Choutara.png">Choutara VDC - Sindhupalchok<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Sindhupalchowk_Choutara.png"/></a></td>
 <td><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchok_Listikot.png">Listikot VDC - Sindhupalchok<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Sindhupalchowk_Listikot.png"/></a></td>
 <td><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchok_Pangtang.png">Pangtang VDC - Sindhupalchok<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Sindhupalchowk_Pangtang.png"/></a></td>
+<td><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchowk_Dhuyang1.png">Dhuyang VDC - Sindhupalchok<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Sindhupalchok_Dhuyang.png"/></a></td>
 </tr>
 <tr>
 <td><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchowk_Dhuyang1.png">Dhuyang VDC - Sindhupalchok<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Sindhupalchok_Dhuyang.png"/></a></td>
