@@ -78,11 +78,11 @@ Zoom in to identify VDC Names.
 <td><a href="http://45.55.246.231/quake-maps/img/Dolakha.png">Dolakha District - A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Dolakha.png"/></a></td>
 </tr>
 <tr>
-<td><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchowk_Dhuyang1.png">Dhuyang VDC - Sindhupalchok<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Sindhupalchok_Dhuyang.png"/></a></td>
-<td><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchowk_Gati.png">Gati VDC - Sindhupalchok<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Sindhupalchowk_Gati.png"/></a></td>
-<td><a href="http://45.55.246.231/quake-maps/img/Dolakha.png">Dolakha District - A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Dolakha.png"/></a></td>
+<td><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchowk_Gati.png">Gati VDC - <br/>Sindhupalchok<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Sindhupalchowk_Gati.png"/></a></td>
 <td><a href="https://cloud.githubusercontent.com/assets/371666/7369184/369a7798-edcd-11e4-9d94-998dcd305b3d.png">Charikot - Dolakha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Dolakha_charikot.png"/></a></td>
 <td><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Dolakha_Japhe.png">Jhape VDC - Dolakha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Dolakha_Japhe.png"/></a></td>
+<td><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Dhading_Marpak.png">Marpak - Dhading<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Dhading_Marpak_thumb.png"/></a></td>
+<td><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Gorkha_bihi.png">Bihi - Gorkha <br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Gorkha_Bihi.png"/></a></td>
 </tr>
 <tr>
 <td><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Dolakha_Lamabagar.png">Lamabagar VDC - Dolakha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Dolakha_Lamabagar_thumb.png"/></a></td>
@@ -116,8 +116,7 @@ Zoom in to identify VDC Names.
 <td><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Dhading_Lapa.png">Lapa - Dhading<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Dhading_Lapa_thumb.png"/></a></td>
 <td><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Dhading_Ree.pngs">Ree - Dhading<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Dhading_Ree_thumb.png"/></a></td>
 <td><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Dhading_Jalbire.png">Jalbire - Dhading<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Dhading_Jalbire.png"/></a></td>
-<td><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Dhading_Marpak.png">Marpak - Dhading<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Dhading_Marpak_thumb.png"/></a></td>
-<td><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Gorkha_bihi.png">Bihi - Gorkha <br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Gorkha_Bihi.png"/></a></td>
+
 </tr>
 </tbody>
 </table>
