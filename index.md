@@ -50,7 +50,7 @@ Zoom in to identify VDC Names.
 <table>
 <tbody>
 <tr>
-<td><a href="http://45.55.246.231/quake-maps/img/Kathmandu.png">Kathmandu District - A2District A2 <img src='http://45.55.246.231/quake-maps/img/thumbs/Kathmandu.png'/></a><td/>
+<td><a href="http://45.55.246.231/quake-maps/img/Kathmandu.png">Kathmandu District - A2District A2 <img src='http://45.55.246.231/quake-maps/img/thumbs/Kathmandu.png'/></a></td>
 <td><a href="http://www.maposmatic.org/results//163494_2015-04-26_13-58_KathmanduBagmatiCentralDevelopmentRegionNepal.pdf">32-page A4 PDF, 15mb<img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/kathmandu_32pages.png"/></a><td/>
 <td><a href="http://www.maposmatic.org/results//163571_2015-04-26_22-22_KathmanduBagmatiCentralDevelopmentRegionNepal.pdf">Large Single-page PDF ,13mb</a> <br/>and more formats available <a href='http://www.maposmatic.org/maps/163571'>here</a><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Kathmandu_largesinglepagepdf.png"/></a></td>
 </tr>
@@ -65,7 +65,7 @@ Zoom in to identify VDC Names.
 <td><a href="https://cloud.githubusercontent.com/assets/371666/7369122/a2e6e3d8-edcc-11e4-8870-cb58302c0788.png">Kirtipur-Lalitpur<img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Lalitpur_kritipur.png"/></a></td>
 </tr>
 <tr>
-<td><a href="https://cloud.githubusercontent.com/assets/4587826/7360010/d42f39f4-ed13-11e4-8ccf-06b6df824b6e.png"><hasukhel-Lalitpur <img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Lalitpur_Chausekhel.png"/></a></td>
+<td><a href="https://cloud.githubusercontent.com/assets/4587826/7360010/d42f39f4-ed13-11e4-8ccf-06b6df824b6e.png">Chasukhel-Lalitpur <img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Lalitpur_Chausekhel.png"/></a></td>
 <td><a href="http://45.55.246.231/quake-maps/img/Sindhupalchok.png">Sindhupalchok District - A2<img src="http://45.55.246.231/quake-maps/img/thumbs/Sindhupalchok.png"/></a></td>
 <td><a href="https://cloud.githubusercontent.com/assets/371666/7369193/7200ad70-edcd-11e4-8d3d-c36bb86c8eb8.png">Bahrabise - Sindhupalchowk<img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Sindhupalchowk_Barabishe.png"/></a></td>
 </tr>
