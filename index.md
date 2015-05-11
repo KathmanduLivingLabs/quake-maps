@@ -57,7 +57,7 @@ Zoom in to identify VDC Names.
 <tr>
 <td><a href="http://45.55.246.231/quake-maps/img/Bhaktapur.png">Bhaktapur District - A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Bhaktapur.png"/></a></td>
 <td><a href="http://www.maposmatic.org/results//163497_2015-04-26_14-05_BhaktapurBagmatiCentralDevelopmentRegionNepal.pdf">50-page A4 PDF, 7mb <img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/bhaktapur32.png"/></a></td>
-<td><a href="http://45.55.246.231/quake-maps/img/Lalitpur.png">Lalitpur District - A2<img src="http://45.55.246.231/quake-maps/img/thumbs/Lalitpur.png"/></a><td/>
+<td><a href="http://45.55.246.231/quake-maps/img/Lalitpur.png">Lalitpur District - A2<img src="http://45.55.246.231/quake-maps/img/thumbs/Lalitpur.png"/></a></td>
 </tr>
 <tr>
 <td><a href="http://www.maposmatic.org/results//163662_2015-04-27_10-25_Lalitpur.pdf">Patan Area Only,27-page A4 PDF,16mb<img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/LalitpurPatanonly.png"/></a></td>
