@@ -47,7 +47,6 @@ Zoom in to identify VDC Names.
 
 
 ## <a id="printed-maps">Printable Maps of Affected Areas(PDF)</a>
-<<<<<<< HEAD
 <table cellspacing=="10">
 <tbody>
 <tr>
