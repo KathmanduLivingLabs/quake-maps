@@ -123,7 +123,7 @@ Zoom in to identify VDC Names.
 <td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Lapu.png">Lapu - Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Lapu.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Hansapur_Gorkha.png">Hansapur - Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Hansapur_Gorkha.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Kerabari_Gorkha.png">Kerabari - Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Kerabari_Gorkha.png"/></a></td>
-<td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Kharibot_Gorkha.png">Kharibot - Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Kharibot_Gorkha.png/></a></td>
+<td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Kharibot_Gorkha.png">Kharibot - Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Kharibot_Gorkha.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Saurpani_Gorkha.png">Saurapani - Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Saurapani_Gorkha.png"/></a></td>
 </tr>
 <tr>
