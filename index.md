@@ -47,6 +47,7 @@ Zoom in to identify VDC Names.
 
 
 ## <a id="printed-maps">Printable Maps of Affected Areas(PDF)</a>
+<<<<<<< HEAD
 <table cellspacing=="10">
 <tbody>
 <tr>
@@ -114,17 +115,31 @@ Zoom in to identify VDC Names.
 </tr>
 <tr>
 <td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Dhading_Lapa.png">Lapa - Dhading<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Dhading_Lapa_thumb.png"/></a></td>
-<td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Dhading_Ree.pngs">Ree - Dhading<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Dhading_Ree_thumb.png"/></a></td>
+<td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Dhading_Ree.png">Ree - Dhading<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Dhading_Ree_thumb.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Dhading_Jalbire.png">Jalbire - Dhading<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Dhading_Jalbire.png"/></a></td>
-
+<td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Ghyachwok.png">Gyachowk - Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Ghyachwok.png/></a></td>
+<td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Uiya.png">Uiya - Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Uiya.png"/></a></td>
+</tr>
+<tr>
+<td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Lapu.png">Lapu - Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Lapu.png"/></a></td>
+<td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Hansapur_Gorkha.png">Hansapur - Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Hansapur_Gorkha.png"/></a></td>
+<td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Kerabari_Gorkha.png">Kerabari - Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Kerabari_Gorkha.png"/></a></td>
+<td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Kharibot_Gorkha.png">Kharibot - Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Kharibot_Gorkha.png/></a></td>
+<td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Saurpani_Gorkha.png">Saurapani - Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Saurapani_Gorkha.png"/></a></td>
+</tr>
+<tr>
+<td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Simjung_Gorkha.png">Simjung - Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Simjung_Gorkha.png"/></a></td>
+<td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Swara_Gorkha.png">Swara - Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Swara_Gorkha.png"/></a></td>
+<td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Takumajhalakuribot_Gorkha.png">Takumajhalakuribot - Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Takumajhalakuribot_Gorkha.png"/></a></td>
+<td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Thumi_Gorkha.png">Thumi - Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Thumi_Gorkha.png/></a></td>
 </tr>
 </tbody>
 </table>
+
 Topo Maps are also available at [Pahar.in](http://pahar.in/nepal-topo-maps/)
 District-level overview maps are also available [here](https://drive.google.com/file/d/0BxrnzVKy1m8GNDY5Rk1oSDVpbVk/view)
 
 Settlement Maps from ICIMOD:<br/>
-
 * [Dolakha<br/>![Dolakha](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/icimod_settlement_maps_thumbs/dolakha_settlement.jpg)](http://www.icimod.org/gorkha_earthquake_maps/settlement/dolakha_settlement.jpg)
 * [Gorkha<br/>![Gorkha](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/icimod_settlement_maps_thumbs/gorkha_settlement.jpg)](http://www.icimod.org/gorkha_earthquake_maps/settlement/gorkha_settlement.jpg)
 * [Nuwakot<br/>![Nuwakot](https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/icimod_settlement_maps_thumbs/nuwakot_settlement.jpg)](http://www.icimod.org/gorkha_earthquake_maps/settlement/nuwakot_settlement.jpg)
