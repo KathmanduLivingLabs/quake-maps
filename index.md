@@ -130,7 +130,7 @@ Zoom in to identify VDC Names.
 <td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Simjung_Gorkha.png">Simjung - Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Simjung_Gorkha.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Swara_Gorkha.png">Swara - Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Swara_Gorkha.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Takumajhalakuribot_Gorkha.png">Takumajhalakuribot - Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Takumajhalakuribot_Gorkha.png"/></a></td>
-<td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Thumi_Gorkha.png">Thumi - Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Thumi_Gorkha.png/></a></td>
+<td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Thumi_Gorkha.png">Thumi - Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Thumi_Gorkha.png"/></a></td>
 </tr>
 </tbody>
 </table>
