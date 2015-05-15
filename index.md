@@ -51,7 +51,7 @@ Zoom in to identify VDC Names.
 <tbody>
 <tr>
 <td style="padding:5px 15px 5px 15px;">Kathmandu District<br/><img src='https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/vdc_thumbs/ktm_thumb.png'/></td>
-<td style="padding:5px 15px 5px 15px;"><a href="http://45.55.246.231/quake-maps/img/Kathmandu.png">Kathmandu District - A2<br/><img src='https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/kathmandu.png'/></a></td>
+<td style="padding:5px 15px 5px 15px;"><a href="http://45.55.246.231/quake-maps/img/Kathmandu.png">Kathmandu District - A2<br/><img src='https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Kathmandu.png'/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a href="http://www.maposmatic.org/results//163494_2015-04-26_13-58_KathmanduBagmatiCentralDevelopmentRegionNepal.pdf">32-page A4 PDF, 15mb<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/kathmandu_32pages.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a href="http://www.maposmatic.org/results//163571_2015-04-26_22-22_KathmanduBagmatiCentralDevelopmentRegionNepal.pdf">Large Single-page PDF ,13mb</a> <br/>and more formats <br/>available <a href='http://www.maposmatic.org/maps/163571'>here</a><br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Kathmandu_largesinglepagepdf.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;">Bhaktapur District<br/><img src='https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/vdc_thumbs/bkt_thumb.png'/></td>
