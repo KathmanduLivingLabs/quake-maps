@@ -51,6 +51,7 @@ Zoom in to identify VDC Names.
 <tbody>
 <tr>
 <td style="padding:5px 15px 5px 15px;" align = 'center'><strong>Kathmandu District</strong></td>
+<td><hr style= "display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: inset; border-width: 1px;"></td>
 </tr>
 <tr>
 <td style="padding:5px 15px 5px 15px;" align = 'center'><strong>Kathmandu District</strong><br/></td>
