@@ -59,17 +59,11 @@ Zoom in to identify VDC Names.
 <td style="padding:5px 15px 5px 0px;" align = 'left'><h4 style="border-bottom: 1px solid black;">Bhaktapur District</h4></td>
 </tr>
 <tr>
-<td><hr style= "display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: inset; border-width: 1px;"></td>
-</tr>
-<tr>
 <td style="padding:5px 15px 5px 15px;"><a href="http://45.55.246.231/quake-maps/img/Bhaktapur.png">Bhaktapur District - A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Bhaktapur.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a href="http://www.maposmatic.org/results//163497_2015-04-26_14-05_BhaktapurBagmatiCentralDevelopmentRegionNepal.pdf">50-page A4 PDF, 7mb <br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/bhaktapur32.png"/></a></td>
 </tr>
 <tr>
 <td style="padding:5px 15px 5px 0px;" align = 'left'><h4 style="border-bottom: 1px solid black;">Lalitpur District</h4></td>
-</tr>
-<tr>
-<td><hr style= "display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: inset; border-width: 1px;"></td>
 </tr>
 <tr>
 <td style="padding:5px 15px 5px 15px;"><a href="http://45.55.246.231/quake-maps/img/Lalitpur.png">Lalitpur District - A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Lalitpur.png"/></a></td>
@@ -80,9 +74,6 @@ Zoom in to identify VDC Names.
 </tr>
 <tr>
 <td style="padding:5px 15px 5px 0px;" align = 'left'><h4 style="border-bottom: 1px solid black;">Sindhupalchowk District</h4></td>
-</tr>
-<tr>
-<td><hr style= "display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: inset; border-width: 1px;"></td>
 </tr>
 <tr>
 <td style="padding:5px 15px 5px 15px;"><a href="http://45.55.246.231/quake-maps/img/Sindhupalchok.png">Sindhupalchok District - A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Sindhupalchok.png"/></a></td>
@@ -102,9 +93,6 @@ Zoom in to identify VDC Names.
 <td style="padding:5px 15px 5px 0px;" align = 'left'><h4 style="border-bottom: 1px solid black;">Dolakha District</h4></td>
 </tr>
 <tr>
-<td><hr style= "display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: inset; border-width: 1px;"></td>
-</tr>
-<tr>
 <td style="padding:5px 15px 5px 15px;"><a href="http://45.55.246.231/quake-maps/img/Dolakha.png">Dolakha District - A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Dolakha.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a href="https://cloud.githubusercontent.com/assets/371666/7369184/369a7798-edcd-11e4-9d94-998dcd305b3d.png">Charikot - Dolakha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Dolakha_charikot.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Dolakha_Japhe.png">Jhape VDC - Dolakha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Dolakha_Japhe.png"/></a></td>
@@ -112,9 +100,6 @@ Zoom in to identify VDC Names.
 </tr>
 <tr>
 <td style="padding:5px 15px 5px 0px;" align = 'left'><h4 style="border-bottom: 1px solid black;">Gorkha District</h4></td>
-</tr>
-<tr>
-<td><hr style= "display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: inset; border-width: 1px;"></td>
 </tr>
 <tr>
 <td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Gorkha_bihi.png">Bihi - Gorkha <br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Gorkha_Bihi.png"/></a></td>
@@ -151,16 +136,10 @@ Zoom in to identify VDC Names.
 <td style="padding:5px 15px 5px 0px;" align = 'left'><h4 style="border-bottom: 1px solid black;">Rasuwa District</h4></td>
 </tr>
 <tr>
-<td><hr style= "display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: inset; border-width: 1px;"></td>
-</tr>
-<tr>
 <td style="padding:5px 15px 5px 15px;"><a href="http://45.55.246.231/quake-maps/img/Rasuwa.png">Rasuwa District - A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Rasuwa.png"/></a></td>
 </tr>
 <tr>
 <td style="padding:5px 15px 5px 0px;" align = 'left'><h4 style="border-bottom: 1px solid black;">Ramechaap District</h4></td>
-</tr>
-<tr>
-<td><hr style= "display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: inset; border-width: 1px;"></td>
 </tr>
 <tr>
 <td style="padding:5px 15px 5px 15px;"><a href="http://45.55.246.231/quake-maps/img/Ramecchap.png">Ramechhap District - A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Ramechhap.png"/></a></td>
@@ -169,16 +148,10 @@ Zoom in to identify VDC Names.
 <td style="padding:5px 15px 5px 0px;" align = 'left'><h4 style="border-bottom: 1px solid black;">Nuwakot District</h4></td>
 </tr>
 <tr>
-<td><hr style= "display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: inset; border-width: 1px;"></td>
-</tr>
-<tr>
 <td style="padding:5px 15px 5px 15px;"><a href="http://45.55.246.231/quake-maps/img/Nuwakot.png">Nuwakot District - A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Nuwakot.png"/></a></td> 
 </tr>
 <tr>
 <td style="padding:5px 15px 5px 0px;" align = 'left'><h4 style="border-bottom: 1px solid black;">Kavrepalanchowk District</h4></td>
-</tr>
-<tr>
-<td><hr style= "display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: inset; border-width: 1px;"></td>
 </tr>
 <tr>
 <td style="padding:5px 15px 5px 15px;"><a href="http://45.55.246.231/quake-maps/img/Kabhrepalanchok.png">Kavrepalanchok District - A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Kabhrepalanchok.png"/></a></td>
@@ -187,16 +160,10 @@ Zoom in to identify VDC Names.
 <td style="padding:5px 15px 5px 0px;" align = 'left'><h4 style="border-bottom: 1px solid black;">Makwanpur District</h4></td>
 </tr>
 <tr>
-<td><hr style= "display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: inset; border-width: 1px;"></td>
-</tr>
-<tr>
 <td style="padding:5px 15px 5px 15px;"><a href="http://45.55.246.231/quake-maps/img/Makwanpur.png">Makwanpur District - A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Makwanpur.png"/></a></td>
 </tr>
 <tr>
 <td style="padding:5px 15px 5px 0px;" align = 'left'><h4 style="border-bottom: 1px solid black;">Okhaldhunga District</h4></td>
-</tr>
-<tr>
-<td><hr style= "display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: inset; border-width: 1px;"></td>
 </tr>
 <tr>
 <td style="padding:5px 15px 5px 15px;"><a href="http://45.55.246.231/quake-maps/img/Okhaldhunga.pngs">Okhaldhunga District - A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Okhaldhunga.png"/></a></td>
@@ -205,16 +172,10 @@ Zoom in to identify VDC Names.
 <td style="padding:5px 15px 5px 0px;" align = 'left'><h4 style="border-bottom: 1px solid black;">Sindhuli District</h4></td>
 </tr>
 <tr>
-<td><hr style= "display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: inset; border-width: 1px;"></td>
-</tr>
-<tr>
 <td style="padding:5px 15px 5px 15px;"><a href="http://45.55.246.231/quake-maps/img/Sindhuli.png">Sindhuli District - A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Sindhuli.png"/></a></td>
 </tr>
 <tr>
 <td style="padding:5px 15px 5px 0px;" align = 'left'><h4 style="border-bottom: 1px solid black;">Dhading District</h4></td>
-</tr>
-<tr>
-<td><hr style= "display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: inset; border-width: 1px;"></td>
 </tr>
 <tr>
 <td style="padding:5px 15px 5px 15px;"><a href="http://45.55.246.231/quake-maps/img/Dhading.png">Dhading District - A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Dhading.png"/></a></td>
