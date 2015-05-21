@@ -50,6 +50,9 @@ Zoom in to identify VDC Names.
 <table cellspacing=="10">
 <tbody>
 <tr>
+<td style="padding:5px 15px 5px 15px;" align = 'center'><strong>Kathmandu District</strong></td>
+</tr>
+<tr>
 <td style="padding:5px 15px 5px 15px;" align = 'center'><strong>Kathmandu District</strong><br/></td>
 <td style="padding:5px 15px 5px 15px;"><a href="http://45.55.246.231/quake-maps/img/Kathmandu.png">Kathmandu District - A2<br/><img src='https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Kathmandu.png'/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a href="http://www.maposmatic.org/results//163494_2015-04-26_13-58_KathmanduBagmatiCentralDevelopmentRegionNepal.pdf">32-page A4 PDF, 15mb<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/kathmandu_32pages.png"/></a></td>
