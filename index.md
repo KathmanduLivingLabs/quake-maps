@@ -47,7 +47,7 @@ Zoom in to identify VDC Names.
 <table cellspacing=="10">
 <tbody>
 <tr>
-<td style="padding:5px 15px 5px 0px;" align = 'left'; border-bottom = '2px solid black'><h4>Kathmandu District</h4></td>
+<td style="padding:5px 15px 5px 0px;" align = 'left';><h4 style=border-bottom = '2px solid black';>Kathmandu District</h4></td>
 </tr>
 
 <tr>
