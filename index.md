@@ -47,46 +47,76 @@ Zoom in to identify VDC Names.
 <table cellspacing=="10">
 <tbody>
 <tr>
-<td style="padding:5px 15px 5px 15px;"><strong>Kathmandu District</strong><br/><img src='https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/vdc_thumbs/ktm_thumb.png'/></td>
-<td style="padding:5px 15px 5px 15px;"><a href="http://45.55.246.231/quake-maps/img/Kathmandu.png">Kathmandu District - A2<br/><img src='https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Kathmandu.png'/></a></td>
+<td style="padding:5px 15px 5px 0px;" align = 'center'><h4>Kathmandu District</h4></td>
+</tr>
+<tr>
+<td><hr style= "display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: inset; border-width: 1px;"></td>
+</tr>
+<tr>
+<td style="padding:5px 10px 5px 15px;"><a href="http://45.55.246.231/quake-maps/img/Kathmandu.png">Kathmandu District - A2<br/><img src='https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Kathmandu.png'/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a href="http://www.maposmatic.org/results//163494_2015-04-26_13-58_KathmanduBagmatiCentralDevelopmentRegionNepal.pdf">32-page A4 PDF, 15mb<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/kathmandu_32pages.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a href="http://www.maposmatic.org/results//163571_2015-04-26_22-22_KathmanduBagmatiCentralDevelopmentRegionNepal.pdf">Large Single-page PDF ,13mb</a> <br/>and more formats <br/>available <a href='http://www.maposmatic.org/maps/163571'>here</a><br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Kathmandu_largesinglepagepdf.png"/></a></td>
-<td style="padding:5px 15px 5px 15px;"><strong>Bhaktapur District</strong><br/><img src='https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/vdc_thumbs/bkt_thumb.png'/></td>
+</tr>
+<tr>
+<td style="padding:5px 15px 5px 0px;" align = 'center'><h4>Bhaktapur District</h4></td>
+</tr>
+<tr>
+<td><hr style= "display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: inset; border-width: 1px;"></td>
 </tr>
 <tr>
 <td style="padding:5px 15px 5px 15px;"><a href="http://45.55.246.231/quake-maps/img/Bhaktapur.png">Bhaktapur District - A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Bhaktapur.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a href="http://www.maposmatic.org/results//163497_2015-04-26_14-05_BhaktapurBagmatiCentralDevelopmentRegionNepal.pdf">50-page A4 PDF, 7mb <br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/bhaktapur32.png"/></a></td>
-<td style="padding:5px 15px 5px 15px;"><strong>Lalitpur District</strong><br/><img src='https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/vdc_thumbs/lalit_thumb.png'/></td>
-<td style="padding:5px 15px 5px 15px;"><a href="http://45.55.246.231/quake-maps/img/Lalitpur.png">Lalitpur District - A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Lalitpur.png"/></a></td>
-<td style="padding:5px 15px 5px 15px;"><a href="http://www.maposmatic.org/results//163662_2015-04-27_10-25_Lalitpur.pdf">Patan Area Only,<br/>27-page A4 PDF,16mb<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/LalitpurPatanonly.png"/></a></td>
 </tr>
 <tr>
+<td style="padding:5px 15px 5px 0px;" align = 'center'><h4>Lalitpur District</h4></td>
+</tr>
+<tr>
+<td><hr style= "display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: inset; border-width: 1px;"></td>
+</tr>
+<tr>
+<td style="padding:5px 15px 5px 15px;"><a href="http://45.55.246.231/quake-maps/img/Lalitpur.png">Lalitpur District - A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Lalitpur.png"/></a></td>
+<td style="padding:5px 15px 5px 15px;"><a href="http://www.maposmatic.org/results//163662_2015-04-27_10-25_Lalitpur.pdf">Patan Area Only,<br/>27-page A4 PDF,16mb<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/LalitpurPatanonly.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Lalitpur_Nallu.png" download>Nallu VDC - Lalitpur<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Lalitpur_Nallu.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a href="https://cloud.githubusercontent.com/assets/371666/7369122/a2e6e3d8-edcc-11e4-8870-cb58302c0788.png">Kirtipur-Lalitpur<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Lalitpur_kritipur.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a href="https://cloud.githubusercontent.com/assets/4587826/7360010/d42f39f4-ed13-11e4-8ccf-06b6df824b6e.png">Chasukhel-Lalitpur <br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Lalitpur_Chausekhel.png"/></a></td>
-<td style="padding:5px 15px 5px 15px;"><strong>Sindhupalchowk District</strong><br/><img src='https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/vdc_thumbs/sindhupal_thumb.png'/></td>
-<td style="padding:5px 15px 5px 15px;"><a href="http://45.55.246.231/quake-maps/img/Sindhupalchok.png">Sindhupalchok District - A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Sindhupalchok.png"/></a></td>
 </tr>
 <tr>
+<td style="padding:5px 15px 5px 0px;" align = 'center'><h4>Sindhupalchowk District</h4></td>
+</tr>
+<tr>
+<td><hr style= "display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: inset; border-width: 1px;"></td>
+</tr>
+<tr>
+<td style="padding:5px 15px 5px 15px;"><a href="http://45.55.246.231/quake-maps/img/Sindhupalchok.png">Sindhupalchok District - A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Sindhupalchok.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a href="https://cloud.githubusercontent.com/assets/371666/7369193/7200ad70-edcd-11e4-8d3d-c36bb86c8eb8.png">Bahrabise -<br/> Sindhupalchowk<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Sindhupalchowk_Barabishe.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sinchupalchowk_Gumba.png">Gumba VDC - <br/>Sindhupalchok<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Sinchupalchowk_Gumba_thumb.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchok_Fulpingkatti.png">Fulpingkatti VDC - <br/>Sindhupalchok<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Sindhupalchok_Fulpingkatti.png"/></a></td>
-<td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchowk_Tatopani.png">Tatopani VDC - <br/>Sindhupalchok<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Sindhupalchok_Tatopani.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchok_Choutara.png">Choutara VDC -<br/> Sindhupalchok<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Sindhupalchowk_Choutara.png"/></a></td>
 </tr>
 <tr>
+<td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchowk_Tatopani.png">Tatopani VDC - <br/>Sindhupalchok<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Sindhupalchok_Tatopani.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchowk_Gati.png">Gati VDC - <br/>Sindhupalchok<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Sindhupalchowk_Gati.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchok_Listikot.png">Listikot VDC - <br/>Sindhupalchok<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Sindhupalchowk_Listikot.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchok_Pangtang.png">Pangtang VDC - <br/>Sindhupalchok<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Sindhupalchowk_Pangtang.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchowk_Dhuyang1.png">Dhuyang VDC -<br/> Sindhupalchok<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Sindhupalchok_Dhuyang.png"/></a></td>
-<td style="padding:5px 15px 5px 15px;"><strong>Dolakha District</strong><br/><img src='https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/vdc_thumbs/dol_thumb.png'/></td>
+</tr>
+<tr>
+<td style="padding:5px 15px 5px 0px;" align = 'center'><h4>Dolakha District</h4></td>
+</tr>
+<tr>
+<td><hr style= "display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: inset; border-width: 1px;"></td>
 </tr>
 <tr>
 <td style="padding:5px 15px 5px 15px;"><a href="http://45.55.246.231/quake-maps/img/Dolakha.png">Dolakha District - A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Dolakha.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a href="https://cloud.githubusercontent.com/assets/371666/7369184/369a7798-edcd-11e4-9d94-998dcd305b3d.png">Charikot - Dolakha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Dolakha_charikot.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Dolakha_Japhe.png">Jhape VDC - Dolakha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Dolakha_Japhe.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Dolakha_Lamabagar.png">Lamabagar VDC - Dolakha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Dolakha_Lamabagar_thumb.png"/></a></td>
-<td style="padding:5px 15px 5px 15px;">Gorkha District<br/><img src='https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/vdc_thumbs/gor_thumb.png'/></td>
+</tr>
+<tr>
+<td style="padding:5px 15px 5px 0px;" align = 'center'><h4>Gorkha District</h4></td>
+</tr>
+<tr>
+<td><hr style= "display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: inset; border-width: 1px;"></td>
 </tr>
 <tr>
 <td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Gorkha_bihi.png">Bihi - Gorkha <br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Gorkha_Bihi.png"/></a></td>
@@ -118,27 +148,84 @@ Zoom in to identify VDC Names.
 </tr>
 <tr>
 <td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Saurpani_Gorkha.png">Saurpani - Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Saurpani_Gorkha.png"/></a></td>
-<td style="padding:5px 15px 5px 15px;"><strong>Rasuwa District</strong><br/><img src='https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/vdc_thumbs/ras_thumb.png'/></td>
+</tr>
+<tr>
+<td style="padding:5px 15px 5px 0px;" align = 'center'><h4>Rasuwa District</h4></td>
+</tr>
+<tr>
+<td><hr style= "display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: inset; border-width: 1px;"></td>
+</tr>
+<tr>
 <td style="padding:5px 15px 5px 15px;"><a href="http://45.55.246.231/quake-maps/img/Rasuwa.png">Rasuwa District - A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Rasuwa.png"/></a></td>
-<td style="padding:5px 15px 5px 15px;"><strong>Ramechaap District</strong><br/><img src='https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/vdc_thumbs/ram_thumb.png'/></td>
+</tr>
+<tr>
+<td style="padding:5px 15px 5px 0px;" align = 'center'><h4>Ramechaap District</h4></td>
+</tr>
+<tr>
+<td><hr style= "display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: inset; border-width: 1px;"></td>
+</tr>
+<tr>
 <td style="padding:5px 15px 5px 15px;"><a href="http://45.55.246.231/quake-maps/img/Ramecchap.png">Ramechhap District - A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Ramechhap.png"/></a></td>
 </tr>
 <tr>
+<td style="padding:5px 15px 5px 0px;" align = 'center'><h4>Nuwakot District</h4></td>
+</tr>
+<tr>
+<td><hr style= "display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: inset; border-width: 1px;"></td>
+</tr>
+<tr>
 <td style="padding:5px 15px 5px 15px;"><a href="http://45.55.246.231/quake-maps/img/Nuwakot.png">Nuwakot District - A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Nuwakot.png"/></a></td> 
+</tr>
+<tr>
+<td style="padding:5px 15px 5px 0px;" align = 'center'><h4>Kavrepalanchowk District</h4></td>
+</tr>
+<tr>
+<td><hr style= "display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: inset; border-width: 1px;"></td>
+</tr>
+<tr>
 <td style="padding:5px 15px 5px 15px;"><a href="http://45.55.246.231/quake-maps/img/Kabhrepalanchok.png">Kavrepalanchok District - A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Kabhrepalanchok.png"/></a></td>
+</tr>
+<tr>
+<td style="padding:5px 15px 5px 0px;" align = 'center'><h4>Makwanpur District</h4></td>
+</tr>
+<tr>
+<td><hr style= "display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: inset; border-width: 1px;"></td>
+</tr>
+<tr>
 <td style="padding:5px 15px 5px 15px;"><a href="http://45.55.246.231/quake-maps/img/Makwanpur.png">Makwanpur District - A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Makwanpur.png"/></a></td>
+</tr>
+<tr>
+<td style="padding:5px 15px 5px 0px;" align = 'center'><h4>Okhaldhunga District</h4></td>
+</tr>
+<tr>
+<td><hr style= "display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: inset; border-width: 1px;"></td>
+</tr>
+<tr>
 <td style="padding:5px 15px 5px 15px;"><a href="http://45.55.246.231/quake-maps/img/Okhaldhunga.pngs">Okhaldhunga District - A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Okhaldhunga.png"/></a></td>
+</tr>
+<tr>
+<td style="padding:5px 15px 5px 0px;" align = 'center'><h4>Sindhuli District</h4></td>
+</tr>
+<tr>
+<td><hr style= "display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: inset; border-width: 1px;"></td>
+</tr>
+<tr>
 <td style="padding:5px 15px 5px 15px;"><a href="http://45.55.246.231/quake-maps/img/Sindhuli.png">Sindhuli District - A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Sindhuli.png"/></a></td>
 </tr>
 <tr>
-<td style="padding:5px 15px 5px 15px;"><strong>Dhading District</strong><br/><img src='https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/vdc_thumbs/dha_thumb.png'/></td>
+<td style="padding:5px 15px 5px 0px;" align = 'center'><h4>Dhading District</h4></td>
+</tr>
+<tr>
+<td><hr style= "display: block; margin-top: 0.5em; margin-bottom: 0.5em; margin-left: auto; margin-right: auto; border-style: inset; border-width: 1px;"></td>
+</tr>
+<tr>
 <td style="padding:5px 15px 5px 15px;"><a href="http://45.55.246.231/quake-maps/img/Dhading.png">Dhading District - A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Dhading.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Dhading_Phulkharka.png">Phulkharka VDC - Dhading<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Dhading_Phulkharka.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Dhading_Jharlang.png">Jharlang - Dhading<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Dhading_Jharlang_thumb.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Dhading_Lapa.png">Lapa - Dhading<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Dhading_Lapa_thumb.png"/></a></td>
+<td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Dhading_Ree.png">Ree - Dhading<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Dhading_Ree_thumb.png"/></a></td>
 </tr>
 <tr>
-<td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Dhading_Ree.png">Ree - Dhading<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Dhading_Ree_thumb.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Dhading_Jalbire.png">Jalbire - Dhading<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Dhading_Jalbire.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Dhading_Marpak.png">Marpak - Dhading<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Dhading_Marpak_thumb.png"/></a></td>
 </tr>
