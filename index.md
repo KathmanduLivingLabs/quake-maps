@@ -208,11 +208,11 @@ District-level overview maps are also available [here](https://drive.google.com/
 </table>
 <br/>(Source: [[Settlement Maps from ICIMOD]](http://www.icimod.org/?q=17913))
 
-h2>District Maps created by Canadian  DART:</h2><br/>
+<h2>District Maps created by Canadian  DART:</h2><br/>
 <table>
 <tbody>
 <tr>
-<td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/NP15-023_Ramechhap_DISTRICT_100K.pdf">Ramechaap<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/ramechaap.png"/></a></td>
+<td style="padding:5px 15px 5px 0px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/NP15-023_Ramechhap_DISTRICT_100K.pdf">Ramechaap<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/ramechaap.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/NP15-050_Central-Nepal_PLANNING_225K.pdf">Central Nepal<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/central_nepal.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/NP15-040_Dolakha_DISTRICT_100K.pdf">Dolakha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/dolakha.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/NP15-031_Kavrepalanchowk_DISTRICT_70K.pdf">Kavre<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/kavre.png"/></a></td>
