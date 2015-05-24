@@ -208,6 +208,23 @@ District-level overview maps are also available [here](https://drive.google.com/
 </table>
 <br/>(Source: [[Settlement Maps from ICIMOD]](http://www.icimod.org/?q=17913))
 
+h2>District Maps created by Canadian  DART:</h2><br/>
+<table>
+<tbody>
+<tr>
+<td style="padding:5px 15px 5px 15px;"><a target="_blank" href="http://www.icimod.org/gorkha_earthquake_maps/settlement/dolakha_settlement.jpg">Ramechaap<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/ramechaap.png"/></a></td>
+<td style="padding:5px 15px 5px 15px;"><a target="_blank" href="http://www.icimod.org/gorkha_earthquake_maps/settlement/gorkha_settlement.jpg">Central Nepal<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/central_nepal.pdf"/></a></td>
+<td style="padding:5px 15px 5px 15px;"><a target="_blank" href="http://www.icimod.org/gorkha_earthquake_maps/settlement/nuwakot_settlement.jpg">Dolakha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/dolakha.pngf"/></a></td>
+<td style="padding:5px 15px 5px 15px;"><a target="_blank" href="http://www.icimod.org/gorkha_earthquake_maps/settlement/rasuwa_settlement.jpg">Kavre<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/kavre.png"/></a></td>
+<td style="padding:5px 15px 5px 15px;"><a target="_blank" href="http://www.icimod.org/gorkha_earthquake_maps/settlement/sndhupalchok_settlement.jpg">Sindhupalchowk<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/sindhupalchowk.png"/></a></td>
+</tr>
+<tr>
+<td style="padding:5px 15px 5px 15px;"><a target="_blank" href="http://www.icimod.org/gorkha_earthquake_maps/settlement/dolakha_settlement.jpg">Okhaldhunga<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/okhaldhunga.png"/></a></td>
+<td style="padding:5px 15px 5px 15px;"><a target="_blank" href="http://www.icimod.org/gorkha_earthquake_maps/settlement/gorkha_settlement.jpg">Sindhuli<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/sindhuli.png"/></a></td>
+</tr>
+</tbody>
+</table>
+<br/>(Source: [[CANADIAN DART forces]]
 ## Looking for other areas?
 Send an email to kathmandulivinglabs@gmail.com with the area / village name or [print from here](http://geohacker.in/nepal/)
 
