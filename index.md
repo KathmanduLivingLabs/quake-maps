@@ -212,15 +212,15 @@ Zoom in to identify VDC Names.
 <table>
 <tbody>
 <tr>
-<td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/NP15-023_Ramechhap_DISTRICT_100K.pdf">Ramechaap<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/ramechaap.png"/></a></td>
-<td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/NP15-050_Central-Nepal_PLANNING_225K.pdf">Central Nepal<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/central_nepal.png"/></a></td>
-<td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/NP15-040_Dolakha_DISTRICT_100K.pdf">Dolakha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/dolakha.png"/></a></td>
-<td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/NP15-031_Kavrepalanchowk_DISTRICT_70K.pdf">Kavre<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/kavre.png"/></a></td>
-<td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/NP15-028_Sindhupalchowk_DISTRICT_90K.pdf">Sindhupalchowk<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/sindhupalchowk.png"/></a></td>
-<td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/NP15-049_Okhaldhunga_DISTRICT_60K.pdf">Okhaldhunga<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/okhaldhunga.png"/></a></td>
+<td style="padding:5px 20px 5px 20px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/NP15-023_Ramechhap_DISTRICT_100K.pdf">Ramechaap<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/ramechaap.png"/></a></td>
+<td style="padding:5px 20px 5px 20px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/NP15-050_Central-Nepal_PLANNING_225K.pdf">Central Nepal<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/central_nepal.png"/></a></td>
+<td style="padding:5px 20px 5px 20px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/NP15-040_Dolakha_DISTRICT_100K.pdf">Dolakha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/dolakha.png"/></a></td>
+<td style="padding:5px 20px 5px 20px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/NP15-031_Kavrepalanchowk_DISTRICT_70K.pdf">Kavre<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/kavre.png"/></a></td>
+<td style="padding:5px 20px 5px 20px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/NP15-028_Sindhupalchowk_DISTRICT_90K.pdf">Sindhupalchowk<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/sindhupalchowk.png"/></a></td>
 </tr>
-<td>
-<td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/NP15-048_Sindhuli_DISTRICT_125K.pdf">Sindhuli<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/sindhuli.png"/></a></td>
+<tr>
+<td style="padding:5px 20px 5px 20px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/NP15-049_Okhaldhunga_DISTRICT_60K.pdf">Okhaldhunga<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/okhaldhunga.png"/></a></td>
+<td style="padding:5px 20px 5px 20px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/NP15-048_Sindhuli_DISTRICT_125K.pdf">Sindhuli<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/sindhuli.png"/></a></td>
 </tr>
 </tbody>
 </table>
