@@ -94,7 +94,7 @@ Zoom in to identify VDC Names.
 </tr>
 <tr>
 <td style="padding:5px 15px 5px 15px;"><a target="_blank" href="http://45.55.246.231/quake-maps/img/Dolakha.png">Dolakha District - A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Dolakha.png"/></a></td>
-<td style="padding:5px 15px 5px 15px;"><a target="_blank" href="http://www.fieldpapers.org/files/prints/ml67ffr3/field-paper-ml67ffr3.pdf">Charikot - Dolakha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/charikotthumb.png"/></a></td>
+<td style="padding:5px 15px 5px 15px;"><a target="_blank" href="http://www.fieldpapers.org/files/prints/ml67ffr3/field-paper-ml67ffr3.pdf">Charikot - Dolakha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/charikotthumb.PNG"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Dolakha_Japhe.png">Jhape VDC - Dolakha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Dolakha_Japhe.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Dolakha_Lamabagar.png">Lamabagar VDC - Dolakha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Dolakha_Lamabagar_thumb.png"/></a></td>
 </tr>
@@ -104,7 +104,7 @@ Zoom in to identify VDC Names.
 <tr>
 <td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Gorkha_bihi.png">Bihi - Gorkha <br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Gorkha_Bihi.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a target="_blank" href="http://45.55.246.231/quake-maps/img/Gorkha.png">Gorkha District -A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Gorkha.png"/></a></td>
-<td style="padding:5px 15px 5px 15px;"><a target="_blank" href="http://www.fieldpapers.org/files/prints/9hsxc5tp/field-paper-9hsxc5tp.pdf">Laprak - Gorkha <br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/laprakthumb.png"/></a></td>
+<td style="padding:5px 15px 5px 15px;"><a target="_blank" href="http://www.fieldpapers.org/files/prints/9hsxc5tp/field-paper-9hsxc5tp.pdf">Laprak - Gorkha <br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/laprakthumb.PNG"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Aarupokhari.png">Arupokhari-Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Aarupokhari.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Gorkha_Mucchok.png">Muchhok - Gorkha <br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Gorkha_Mucchok_thumb.png"/></a></td>
 </tr>
@@ -113,7 +113,7 @@ Zoom in to identify VDC Names.
 <td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Gorkha_Lho.png">Lho - Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Gorkha_Lho.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Gorkha_Samagaun.png">Samagoan - Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Gorkha_Samagaun.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Gorkha_Sirdibas.png">Sirdibas - Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Gorkha_Sirdibas.png"/></a></td>
-<td style="padding:5px 15px 5px 15px;"><a target="_blank" href="http://www.fieldpapers.org/files/prints/6l3l6rb3/field-paper-6l3l6rb3.pdf">Barpak - Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/barpakthumb.png"/></a></td>
+<td style="padding:5px 15px 5px 15px;"><a target="_blank" href="http://www.fieldpapers.org/files/prints/6l3l6rb3/field-paper-6l3l6rb3.pdf">Barpak - Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/barpakthumb.PNG"/></a></td>
 </tr>
 <tr>
 <td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Ghyachwok.png">Gyachowk - Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Ghyachwok.png"/></a></td>
