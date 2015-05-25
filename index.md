@@ -191,8 +191,8 @@ Zoom in to identify VDC Names.
 </tbody>
 </table>
 
-Topo Maps are also available at [Pahar.in](http://pahar.in/nepal-topo-maps/)
-District-level overview maps are also available [here](https://drive.google.com/file/d/0BxrnzVKy1m8GNDY5Rk1oSDVpbVk/view)
+**Topo Maps are also available at [Pahar.in](http://pahar.in/nepal-topo-maps/)**
+**District-level overview maps are also available [here](https://drive.google.com/file/d/0BxrnzVKy1m8GNDY5Rk1oSDVpbVk/view)**
 
 <h2>Settlement Maps from ICIMOD:</h2><br/>
 <table>
