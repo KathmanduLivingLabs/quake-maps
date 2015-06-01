@@ -80,7 +80,7 @@ Zoom in to identify VDC Names.
 <td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://cloud.githubusercontent.com/assets/371666/7369193/7200ad70-edcd-11e4-8d3d-c36bb86c8eb8.png">Bahrabise -<br/> Sindhupalchowk<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Sindhupalchowk_Barabishe.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sinchupalchowk_Gumba.png">Gumba VDC - <br/>Sindhupalchok<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Sinchupalchowk_Gumba_thumb.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchok_Fulpingkatti.png">Fulpingkatti VDC - <br/>Sindhupalchok<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Sindhupalchok_Fulpingkatti.png"/></a></td>
-<td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchok_Choutara.png">Choutara VDC -<br/> Sindhupalchok<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Sindhupalchowk_Choutara.png"/></a></td>
+<td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchowk_Choutara.png">Choutara VDC -<br/> Sindhupalchok<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Sindhupalchowk_Choutara.png"/></a></td>
 </tr>
 <tr>
 <td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Sindhupalchowk_Tatopani.png">Tatopani VDC - <br/>Sindhupalchok<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Sindhupalchok_Tatopani.png"/></a></td>
@@ -94,7 +94,7 @@ Zoom in to identify VDC Names.
 </tr>
 <tr>
 <td style="padding:5px 15px 5px 15px;"><a target="_blank" href="http://45.55.246.231/quake-maps/img/Dolakha.png">Dolakha District - A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Dolakha.png"/></a></td>
-<td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/charikot.pdf">Charikot - Dolakha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/charikot.png"/></a></td>
+<td style="padding:5px 15px 5px 15px;"><a target="_blank" href="http://www.fieldpapers.org/files/prints/ml67ffr3/field-paper-ml67ffr3.pdf">Charikot - Dolakha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/charikotthumb.PNG"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Dolakha_Japhe.png">Jhape VDC - Dolakha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Dolakha_Japhe.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Dolakha_Lamabagar.png">Lamabagar VDC - Dolakha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Dolakha_Lamabagar_thumb.png"/></a></td>
 </tr>
@@ -104,7 +104,7 @@ Zoom in to identify VDC Names.
 <tr>
 <td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Gorkha_bihi.png">Bihi - Gorkha <br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Gorkha_Bihi.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a target="_blank" href="http://45.55.246.231/quake-maps/img/Gorkha.png">Gorkha District -A2<br/><img src="http://45.55.246.231/quake-maps/img/thumbs/Gorkha.png"/></a></td>
-<td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/laprak.png">Laprak - Gorkha <br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/laprak.png"/></a></td>
+<td style="padding:5px 15px 5px 15px;"><a target="_blank" href="http://www.fieldpapers.org/files/prints/9hsxc5tp/field-paper-9hsxc5tp.pdf">Laprak - Gorkha <br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/laprakthumb.PNG"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Aarupokhari.png">Arupokhari-Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Aarupokhari.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Gorkha_Mucchok.png">Muchhok - Gorkha <br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Gorkha_Mucchok_thumb.png"/></a></td>
 </tr>
@@ -113,7 +113,7 @@ Zoom in to identify VDC Names.
 <td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Gorkha_Lho.png">Lho - Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Gorkha_Lho.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Gorkha_Samagaun.png">Samagoan - Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Gorkha_Samagaun.png"/></a></td>
 <td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Gorkha_Sirdibas.png">Sirdibas - Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/thumbnails/Gorkha_Sirdibas.png"/></a></td>
-<td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/barpak.png">Barpak - Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/barpak.png"/></a></td>
+<td style="padding:5px 15px 5px 15px;"><a target="_blank" href="http://www.fieldpapers.org/files/prints/6l3l6rb3/field-paper-6l3l6rb3.pdf">Barpak - Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/barpakthumb.PNG"/></a></td>
 </tr>
 <tr>
 <td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/Ghyachwok.png">Gyachowk - Gorkha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/VDC_Maps/thumbs/Ghyachwok.png"/></a></td>
@@ -212,13 +212,15 @@ Zoom in to identify VDC Names.
 <table>
 <tbody>
 <tr>
-<td style="padding:5px 15px 5px 0px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/NP15-023_Ramechhap_DISTRICT_100K.pdf">Ramechaap<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/ramechaap.png"/></a></td>
-<td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/NP15-050_Central-Nepal_PLANNING_225K.pdf">Central Nepal<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/central_nepal.png"/></a></td>
-<td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/NP15-040_Dolakha_DISTRICT_100K.pdf">Dolakha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/dolakha.png"/></a></td>
-<td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/NP15-031_Kavrepalanchowk_DISTRICT_70K.pdf">Kavre<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/kavre.png"/></a></td>
-<td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/NP15-028_Sindhupalchowk_DISTRICT_90K.pdf">Sindhupalchowk<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/sindhupalchowk.png"/></a></td>
-<td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/NP15-049_Okhaldhunga_DISTRICT_60K.pdf">Okhaldhunga<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/okhaldhunga.png"/></a></td>
-<td style="padding:5px 15px 5px 15px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/NP15-048_Sindhuli_DISTRICT_125K.pdf">Sindhuli<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/sindhuli.png"/></a></td>
+<td style="padding:5px 20px 5px 20px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/NP15-023_Ramechhap_DISTRICT_100K.pdf">Ramechaap<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/ramechaap.png"/></a></td>
+<td style="padding:5px 20px 5px 20px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/NP15-050_Central-Nepal_PLANNING_225K.pdf">Central Nepal<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/central_nepal.png"/></a></td>
+<td style="padding:5px 20px 5px 20px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/NP15-040_Dolakha_DISTRICT_100K.pdf">Dolakha<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/dolakha.png"/></a></td>
+<td style="padding:5px 20px 5px 20px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/NP15-031_Kavrepalanchowk_DISTRICT_70K.pdf">Kavre<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/kavre.png"/></a></td>
+<td style="padding:5px 20px 5px 20px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/NP15-028_Sindhupalchowk_DISTRICT_90K.pdf">Sindhupalchowk<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/sindhupalchowk.png"/></a></td>
+</tr>
+<tr>
+<td style="padding:5px 20px 5px 20px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/NP15-049_Okhaldhunga_DISTRICT_60K.pdf">Okhaldhunga<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/okhaldhunga.png"/></a></td>
+<td style="padding:5px 20px 5px 20px;"><a target="_blank" href="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/NP15-048_Sindhuli_DISTRICT_125K.pdf">Sindhuli<br/><img src="https://s3-ap-southeast-1.amazonaws.com/quake-relief-info/Canadian_DART/thumbs/sindhuli.png"/></a></td>
 </tr>
 </tbody>
 </table>
